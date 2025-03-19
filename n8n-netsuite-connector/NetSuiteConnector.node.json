@@ -1,0 +1,20 @@
+{
+    "node": "n8n-nodes-base.NetSuiteConnector",
+    "nodeVersion": "1.0",
+    "codexVersion": "1.0",
+    "categories": [
+        "CRM"
+    ],
+    "resources": {
+        "credentialDocumentation": [
+            {
+                "url": ""
+            }
+        ],
+        "primaryDocumentation": [
+            {
+                "url": ""
+            }
+        ]
+    }
+}
